@@ -9,7 +9,7 @@ labels:
   - ITM 352
 ---
 
-Personal
+## Personal
 
 Hello, my name is Bode Asamoto and I am a fourth year student majoring in marketing
 and management information systems from Honolulu, Hawaii. I decided to major in MIS 
